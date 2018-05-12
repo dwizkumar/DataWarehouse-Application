@@ -1,0 +1,37 @@
+shipMethod,paymentMethod,orderMethod,Method_SK
+air  ,cash  ,email   ,1
+air  ,cash  ,internet,2
+air  ,cash  ,phone   ,3
+air  ,charge,email   ,4
+air  ,charge,internet,5
+air  ,charge,phone   ,6
+air  ,cod   ,email   ,7
+air  ,cod   ,internet,8
+air  ,cod   ,phone   ,9
+n/a  ,cash  ,email   ,10
+n/a  ,cash  ,internet,11
+n/a  ,cash  ,phone   ,12
+n/a  ,charge,email   ,13
+n/a  ,charge,internet,14
+n/a  ,charge,phone   ,15
+n/a  ,cod   ,email   ,16
+n/a  ,cod   ,internet,17
+n/a  ,cod   ,phone   ,18
+train,cash  ,email   ,19
+train,cash  ,internet,20
+train,cash  ,phone   ,21
+train,charge,email   ,22
+train,charge,internet,23
+train,charge,phone   ,24
+train,cod   ,email   ,25
+train,cod   ,internet,26
+train,cod   ,phone   ,27
+truck,cash  ,email   ,28
+truck,cash  ,internet,29
+truck,cash  ,phone   ,30
+truck,charge,email   ,31
+truck,charge,internet,32
+truck,charge,phone   ,33
+truck,cod   ,email   ,34
+truck,cod   ,internet,35
+truck,cod   ,phone   ,36

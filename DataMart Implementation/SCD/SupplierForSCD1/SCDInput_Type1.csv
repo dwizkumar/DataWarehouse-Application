@@ -1,0 +1,11 @@
+Supplier_SK,SupplierID,SupplierName,Address1,Address2,City,State,Zip,VersionNum,EffectiveDate,ExpirationDate
+6,6,First Bancshares Incorporated,Jensine Lease,11885 Aural Turnpike,Louisville,KY,40253,1,7/1/2000,7/1/2020
+1,7,Afg Industries Incorporated,Erin Walker,5377 Cookbook Circle,Vero Beach,FL,32967,1,1/2/2000,1/2/2020
+2,8,American General Ventures Incorporated,Kimberly Yarborough,1615 Goggles Drive,Sterling,KS,67579,1,1/3/2000,1/3/2020
+3,3,Black Hills Corporation,Edena Gilbert,1618 Magnolia Street,Tallahassee,FL,32304,1,1/4/2000,1/4/2020
+4,5,Dollar General Corporation,Jenny Jammi,3988 Chanced Avenue,S Middleton,PA,17007,1,1/5/2000,1/5/2020
+5,9,Fedders Corporation,Virgil Hubert,7844 Emerson Street,Overlook,WA,98366,1,1/6/2000,1/6/2020
+7,4,Immunex Corporation,Elbert Glad,9th Avenue North,Seattle,WA,98109,1,1/8/2000,1/8/2020
+8,10,Saurer Gruppe Holding Agency,Chris Rick,3727 Elms Drive,South Saint Paul,MN,55077,1,1/9/2000,1/9/2020
+9,2,Sinclair Broadcast Group Incorporated,Carla Shelby,8th Avenue South,Clinton,MI,49236,1,1/10/2000,1/10/2020
+10,1,Specialty Teleconstructors Incorporated,Zylina Cox,2161 Alamo Way,Salinas,CA,93905,1,1/11/2000,1/11/2020

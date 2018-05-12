@@ -1,0 +1,138 @@
+PEC_ProductID,ProductName,ProductTypeID,TypeDescription,Price1,Price2,UnitCost,BUID,BUName,BUAbbreviation,TPCW_ProductID,TPCE_ProductID,Product_SK
+,Allis Polishing Equipment            ,3,Polishing Equipment    ,201.8,176.3,160.5,A,Processing Equipment,Equipment,56,56,1
+18,Allis Polishing Equipment            ,3,Polishing Equipment    ,201.8,176.3,267,A,Processing Equipment,Equipment,,,2
+,Anthem Tray Supplies                 ,8,Tray Supplies          ,134.9,112.4,109,B,Disposable Supplies ,Supplies ,72,72,3
+25,Automobiles Fillers                  ,12,Fillers                ,283.8,227.6,218.5,D,Miscellaneous       ,,5,5,4
+,Bandage Manufacturing Equipment      ,2,Manufacturing Equipment,298,267,253.7,A,Processing Equipment,Equipment,24,24,5
+7,Bandage Manufacturing Equipment      ,2,Manufacturing Equipment,298,267,557,A,Processing Equipment,Equipment,,,6
+,Barrels Flushing Chemicals           ,10,Flushing Chemicals     ,135.1,116.6,108.4,C,Chemicals           ,Chemicals,98,98,7
+,Behind Tray Supplies                 ,8,Tray Supplies          ,166.7,139,129.3,B,Disposable Supplies ,Supplies ,92,92,8
+,Beliefs Freezing Chemicals           ,11,Freezing Chemicals     ,566.6,483.9,454.9,C,Chemicals           ,Chemicals,94,94,9
+,Bellowing Polishing Equipment        ,3,Polishing Equipment    ,502.6,451.3,446.8,A,Processing Equipment,Equipment,93,93,10
+31,Bellowing Polishing Equipment        ,3,Polishing Equipment    ,502.6,451.3,954,A,Processing Equipment,Equipment,,,11
+,Berwick Fillers                      ,12,Fillers                ,583.9,487.5,463.1,D,Miscellaneous       ,,64,64,12
+,Birthdays Manufacturing Equipment    ,2,Manufacturing Equipment,196.6,173.2,161.1,A,Processing Equipment,Equipment,44,44,13
+35,Birthdays Manufacturing Equipment    ,2,Manufacturing Equipment,196.6,173.2,282,A,Processing Equipment,Equipment,,,14
+,Blazed Covers                        ,13,Covers                 ,495,416.8,404.3,D,Miscellaneous       ,,43,43,15
+,Bluest Fillers                       ,12,Fillers                ,507.4,428.2,398.2,D,Miscellaneous       ,,29,29,16
+,Bomber Photo Equipment               ,1,Photo Equipment        ,461.3,400.4,380.4,A,Processing Equipment,Equipment,36,36,17
+43,Bomber Photo Equipment               ,1,Photo Equipment        ,461.3,400.4,780,A,Processing Equipment,Equipment,,,18
+,Bumblers Plastic Supplies            ,7,Plastic Supplies       ,545.3,466.2,447.6,B,Disposable Supplies ,Supplies ,55,55,19
+,Carelessly Freezing Chemicals        ,11,Freezing Chemicals     ,559.7,467.9,425.8,C,Chemicals           ,Chemicals,42,42,20
+,Chalmers Polishing Equipment         ,3,Polishing Equipment    ,289.2,242.6,223.2,A,Processing Equipment,Equipment,25,25,21
+8,Chalmers Polishing Equipment         ,3,Polishing Equipment    ,289.2,242.6,513,A,Processing Equipment,Equipment,,,22
+,Characterization Plastic Supplies    ,7,Plastic Supplies       ,231.7,185.6,168.9,B,Disposable Supplies ,Supplies ,58,58,23
+,Chartable Photo Equipment            ,1,Photo Equipment        ,410.2,347.4,312.7,A,Processing Equipment,Equipment,32,32,24
+10,Chartable Photo Equipment            ,9,Photo Chemicals        ,410.2,347.4,706,C,Chemicals           ,Chemicals,,,25
+,Chromium Photo Equipment             ,1,Photo Equipment        ,565.5,457.5,425.5,A,Processing Equipment,Equipment,35,35,26
+12,Chromium Photo Equipment             ,1,Photo Equipment        ,565.5,457.5,785,A,Processing Equipment,Equipment,,,27
+38,Commendation Fillers                 ,12,Fillers                ,436.3,380,364.8,D,Miscellaneous       ,,7,7,28
+42,Concentrators Polishing Equipment    ,3,Polishing Equipment    ,584.6,524.9,1112,A,Processing Equipment,Equipment,,,29
+,Concentrators Polishing Equipment    ,3,Polishing Equipment    ,584.6,524.9,482.9,A,Processing Equipment,Equipment,37,37,30
+,Consideration Tray Supplies          ,8,Tray Supplies          ,172.6,146.8,139.5,B,Disposable Supplies ,Supplies ,41,41,31
+,Consumable Tray Supplies             ,8,Tray Supplies          ,395.7,347.4,337,B,Disposable Supplies ,Supplies ,33,33,32
+,Cosgrove Jacks                       ,15,Jacks                  ,298.9,267.8,254.4,D,Miscellaneous       ,,73,73,33
+,Courthouses Manufacturing Equipment  ,2,Manufacturing Equipment,285.6,243.6,231.4,A,Processing Equipment,Equipment,61,61,34
+20,Courthouses Manufacturing Equipment  ,2,Manufacturing Equipment,285.6,243.6,436,A,Processing Equipment,Equipment,,,35
+13,Coward Covers                        ,13,Covers                 ,429.8,349,328.1,D,Miscellaneous       ,,13,13,36
+,Curiouser Cleaning Supplies          ,5,Cleaning Supplies      ,419.4,364.4,338.9,B,Disposable Supplies ,Supplies ,90,90,37
+,Decided Tray Supplies                ,8,Tray Supplies          ,233.3,202.3,198.2,B,Disposable Supplies ,Supplies ,23,23,38
+9,Defeated Tray Supplies               ,8,Tray Supplies          ,559.7,476.9,448.3,B,Disposable Supplies ,Supplies ,10,10,39
+,Deferrable Freezing Chemicals        ,11,Freezing Chemicals     ,145,124.4,113.2,C,Chemicals           ,Chemicals,75,75,40
+,Denigrating Polishing Equipment      ,3,Polishing Equipment    ,566,454.5,427.2,A,Processing Equipment,Equipment,21,21,41
+6,Denigrating Polishing Equipment      ,3,Polishing Equipment    ,566,454.5,952,A,Processing Equipment,Equipment,,,42
+,Detectives Jacks                     ,15,Jacks                  ,283.3,248.5,236.1,D,Miscellaneous       ,,30,30,43
+,Disallow Manufacturing Equipment     ,2,Manufacturing Equipment,165.2,145.9,144.4,A,Processing Equipment,Equipment,85,85,44
+39,Disallow Manufacturing Equipment     ,2,Manufacturing Equipment,165.2,145.9,229,A,Processing Equipment,Equipment,,,45
+,Disposed Fillers                     ,12,Fillers                ,158.8,138,132.5,D,Miscellaneous       ,,15,15,46
+,Distantly Paper Supplies             ,6,Paper Supplies         ,518.5,436.1,418.6,B,Disposable Supplies ,Supplies ,46,46,47
+,Drafty Cleaning Supplies             ,5,Cleaning Supplies      ,107.1,92.7,89,B,Disposable Supplies ,Supplies ,96,96,48
+,Duplicator Polishing Equipment       ,3,Polishing Equipment    ,544.3,465.4,432.8,A,Processing Equipment,Equipment,95,95,49
+36,Duplicator Polishing Equipment       ,3,Polishing Equipment    ,544.3,465.4,957,A,Processing Equipment,Equipment,,,50
+32,Embodying Cleaning Supplies          ,5,Cleaning Supplies      ,250.9,213.5,207.1,B,Disposable Supplies ,Supplies ,4,4,51
+,Engle Photo Chemicals                ,9,Photo Chemicals        ,429.9,346.1,342.6,C,Chemicals           ,Chemicals,14,14,52
+,Enhanced Covers                      ,13,Covers                 ,461,384.4,361.4,D,Miscellaneous       ,,16,16,53
+,Enumerator Polishing Equipment       ,3,Polishing Equipment    ,165,142.5,135.4,A,Processing Equipment,Equipment,1,1,54
+1,Enumerator Polishing Equipment       ,3,Polishing Equipment    ,165,142.5,281,A,Processing Equipment,Equipment,,,55
+37,Escape Manufacturing Equipment       ,2,Manufacturing Equipment,584.4,523.6,1121,A,Processing Equipment,Equipment,,,56
+,Escape Manufacturing Equipment       ,2,Manufacturing Equipment,584.4,523.6,507.9,A,Processing Equipment,Equipment,70,70,57
+,Exemplar Freezing Chemicals          ,11,Freezing Chemicals     ,198.4,160.9,152.8,C,Chemicals           ,Chemicals,66,66,58
+22,Extinguisher Manufacturing Equipment ,2,Manufacturing Equipment,120.4,98.4,158,A,Processing Equipment,Equipment,,,59
+,Extinguisher Manufacturing Equipment ,2,Manufacturing Equipment,120.4,98.4,90.5,A,Processing Equipment,Equipment,65,65,60
+,Flake Photo Equipment                ,1,Photo Equipment        ,232.3,204.4,194.2,A,Processing Equipment,Equipment,20,20,61
+5,Flake Photo Equipment                ,1,Photo Equipment        ,232.3,204.4,410,A,Processing Equipment,Equipment,,,62
+,Flanker Fillers                      ,12,Fillers                ,271.4,236.2,219.6,D,Miscellaneous       ,,74,74,63
+,Habitually Manufacturing Equipment   ,2,Manufacturing Equipment,509.3,419.1,394,A,Processing Equipment,Equipment,60,60,64
+19,Habitually Manufacturing Equipment   ,2,Manufacturing Equipment,509.3,419.1,833,A,Processing Equipment,Equipment,,,65
+,Hesitating Jacks                     ,15,Jacks                  ,124.5,100.1,96.1,D,Miscellaneous       ,,19,19,66
+,Hits Tray Supplies                   ,8,Tray Supplies          ,439.5,359.1,341.1,B,Disposable Supplies ,Supplies ,69,69,67
+,Honeymoon Photo Chemicals            ,9,Photo Chemicals        ,326.1,292.2,271.8,C,Chemicals           ,Chemicals,54,54,68
+,Horses Lifts                         ,14,Lifts                  ,487.3,402.5,366.3,D,Miscellaneous       ,,83,83,69
+,Identical Freezing Chemicals         ,11,Freezing Chemicals     ,578.1,465.9,447.3,C,Chemicals           ,Chemicals,52,52,70
+,Insensitivity Manufacturing Equipment,2,Manufacturing Equipment,200.7,180.4,169.6,A,Processing Equipment,Equipment,40,40,71
+16,Insensitivity Manufacturing Equipment,2,Manufacturing Equipment,200.7,180.4,278,A,Processing Equipment,Equipment,,,72
+,Just Paper Supplies                  ,6,Paper Supplies         ,278.6,201.3,192.7,B,Disposable Supplies ,Supplies ,105,,73
+,LCARS Covers                         ,13,Covers                 ,289.4,231.4,211.8,D,Miscellaneous       ,,104,,74
+,Loaves Polishing Equipment           ,3,Polishing Equipment    ,425.6,361.3,354.1,A,Processing Equipment,Equipment,68,68,75
+24,Loaves Polishing Equipment           ,3,Polishing Equipment    ,425.6,361.3,585,A,Processing Equipment,Equipment,,,76
+,Measured Photo Chemicals             ,9,Photo Chemicals        ,318.1,270.7,254.4,C,Chemicals           ,Chemicals,78,78,77
+29,Millimeters Flushing Chemicals       ,10,Flushing Chemicals     ,295.6,251.8,241.8,C,Chemicals           ,Chemicals,9,9,78
+,Miniaturizing Manufacturing Equipment,2,Manufacturing Equipment,456.2,379.6,353,A,Processing Equipment,Equipment,18,18,79
+4,Miniaturizing Manufacturing Equipment,2,Manufacturing Equipment,456.2,379.6,777,A,Processing Equipment,Equipment,,,80
+,Numerals Covers                      ,13,Covers                 ,102.9,89,83.6,D,Miscellaneous       ,,82,82,81
+,Occlusion Manufacturing Equipment    ,2,Manufacturing Equipment,199.9,177.3,164.9,A,Processing Equipment,Equipment,67,67,82
+23,Occlusion Manufacturing Equipment    ,2,Manufacturing Equipment,199.9,177.3,171,A,Processing Equipment,Equipment,,,83
+,Optima Cleaning Supplies             ,5,Cleaning Supplies      ,288.4,255.5,242.8,B,Disposable Supplies ,Supplies ,17,17,84
+,Overlays Plastic Supplies            ,7,Plastic Supplies       ,301.1,254.4,241.7,B,Disposable Supplies ,Supplies ,39,39,85
+,Palm Polishing Equipment             ,3,Polishing Equipment    ,122.4,105.4,103.3,A,Processing Equipment,Equipment,81,81,86
+28,Palm Polishing Equipment             ,3,Polishing Equipment    ,122.4,105.4,209,A,Processing Equipment,Equipment,,,87
+,Patriarchal Cleaning Supplies        ,5,Cleaning Supplies      ,351.5,284.8,264.8,B,Disposable Supplies ,Supplies ,48,48,88
+,Pervasively Manufacturing Equipment  ,2,Manufacturing Equipment,374.1,334.9,308.1,A,Processing Equipment,Equipment,100,100,89
+33,Pervasively Manufacturing Equipment  ,2,Manufacturing Equipment,374.1,334.9,716,A,Processing Equipment,Equipment,,,90
+,Pinnings Plastic Supplies            ,7,Plastic Supplies       ,337.2,302.4,287.3,B,Disposable Supplies ,Supplies ,27,27,91
+,Planetesimal Manufacturing Equipment ,2,Manufacturing Equipment,347.3,307,285.5,A,Processing Equipment,Equipment,6,6,92
+2,Planetesimal Manufacturing Equipment ,2,Manufacturing Equipment,347.3,307,602,A,Processing Equipment,Equipment,,,93
+,Reflection Lifts                     ,14,Lifts                  ,497.9,447.6,438.6,D,Miscellaneous       ,,51,51,94
+,Restarts Paper Supplies              ,6,Paper Supplies         ,524.4,448.3,425.9,B,Disposable Supplies ,Supplies ,50,50,95
+,Richards Freezing Chemicals          ,11,Freezing Chemicals     ,529.4,475.4,470.6,C,Chemicals           ,Chemicals,99,99,96
+,Ruffle Freezing Chemicals            ,11,Freezing Chemicals     ,476.4,394.9,379.1,C,Chemicals           ,Chemicals,53,53,97
+,Sailors Manufacturing Equipment      ,2,Manufacturing Equipment,340.5,290.4,278.8,A,Processing Equipment,Equipment,34,34,98
+11,Sailors Manufacturing Equipment      ,2,Manufacturing Equipment,340.5,290.4,561,A,Processing Equipment,Equipment,,,99
+,Scribble Plastic Supplies            ,7,Plastic Supplies       ,492.4,405.7,397.6,B,Disposable Supplies ,Supplies ,91,91,100
+,Scrounge Jacks                       ,15,Jacks                  ,301.6,251.2,248.7,D,Miscellaneous       ,,76,76,101
+34,Septembers Manufacturing Equipment   ,2,Manufacturing Equipment,584.3,523,512,A,Processing Equipment,Equipment,,,102
+,Septembers Manufacturing Equipment   ,2,Manufacturing Equipment,584.3,523,517.8,A,Processing Equipment,Equipment,8,8,103
+,Siena Plastic Supplies               ,7,Plastic Supplies       ,155,136.4,132.3,B,Disposable Supplies ,Supplies ,79,79,104
+,Significants Freezing Chemicals      ,11,Freezing Chemicals     ,141.6,113.2,104.2,C,Chemicals           ,Chemicals,47,47,105
+,Simplifier Tray Supplies             ,8,Tray Supplies          ,408.8,349.1,328.2,B,Disposable Supplies ,Supplies ,31,31,106
+,Simulations Photo Equipment          ,1,Photo Equipment        ,318.4,255.7,245.4,A,Processing Equipment,Equipment,71,71,107
+26,Simulations Photo Equipment          ,1,Photo Equipment        ,318.4,255.7,459,A,Processing Equipment,Equipment,,,108
+,Slacking Jacks                       ,15,Jacks                  ,495,400,388,D,Miscellaneous       ,,45,45,109
+17,Sortie Covers                        ,13,Covers                 ,248.2,213.2,206.8,D,Miscellaneous       ,,3,3,110
+,South Tray Supplies                  ,8,Tray Supplies          ,241.3,205.1,203.1,B,Disposable Supplies ,Supplies ,57,57,111
+,Soya Cleaning Supplies               ,5,Cleaning Supplies      ,406.9,345.9,345.9,B,Disposable Supplies ,Supplies ,86,86,112
+,Stickiest Paper Supplies             ,6,Paper Supplies         ,575.9,502.8,467.6,B,Disposable Supplies ,Supplies ,97,97,113
+,Subclasses Polishing Equipment       ,3,Polishing Equipment    ,282.5,239,236.6,A,Processing Equipment,Equipment,26,26,114
+40,Subclasses Polishing Equipment       ,3,Polishing Equipment    ,282.5,239,515,A,Processing Equipment,Equipment,,,115
+,Substances Flushing Chemicals        ,10,Flushing Chemicals     ,507.3,409.9,397.6,C,Chemicals           ,Chemicals,62,62,116
+,Suing Manufacturing Equipment        ,2,Manufacturing Equipment,482.2,426.7,401.1,A,Processing Equipment,Equipment,87,87,117
+30,Suing Manufacturing Equipment        ,2,Manufacturing Equipment,482.2,426.7,799,A,Processing Equipment,Equipment,,,118
+41,Sulkiness Covers                     ,13,Covers                 ,354.3,289.8,272.4,D,Miscellaneous       ,,11,11,119
+,Syntax Polishing Equipment           ,3,Polishing Equipment    ,226.7,190.9,177.5,A,Processing Equipment,Equipment,38,38,120
+15,Syntax Polishing Equipment           ,3,Polishing Equipment    ,226.7,190.9,287,A,Processing Equipment,Equipment,,,121
+3,Tailor Jacks                         ,15,Jacks                  ,509.8,429.7,399.7,D,Miscellaneous       ,,2,2,122
+,Temporally Plastic Supplies          ,7,Plastic Supplies       ,477.5,408.3,371.5,B,Disposable Supplies ,Supplies ,80,80,123
+,Tonnage Plastic Supplies             ,7,Plastic Supplies       ,368.8,315.6,309.3,B,Disposable Supplies ,Supplies ,59,59,124
+,Travel Paper Supplies                ,6,Paper Supplies         ,129.8,108.8,103.4,B,Disposable Supplies ,Supplies ,89,89,125
+,Travelings Photo Chemicals           ,12,Fillers                ,274.4,242,225.1,D,Miscellaneous       ,,12,,126
+14,Travelings Photo Chemicals           ,9,Photo Chemicals        ,274.4,242,225.1,C,Chemicals           ,Chemicals,,12,127
+,Unjust Paper Supplies                ,6,Paper Supplies         ,222.5,182.2,176.7,B,Disposable Supplies ,Supplies ,84,84,128
+,Vastest Photo Equipment              ,1,Photo Equipment        ,498.1,442.3,420.2,A,Processing Equipment,Equipment,77,77,129
+27,Vastest Photo Equipment              ,1,Photo Equipment        ,498.1,442.3,698,A,Processing Equipment,Equipment,,,130
+,Vestiges Tray Supplies               ,8,Tray Supplies          ,231.4,192.1,186.3,B,Disposable Supplies ,Supplies ,88,88,131
+,Visage Flushing Chemicals            ,10,Flushing Chemicals     ,567.8,507.6,467,C,Chemicals           ,Chemicals,49,49,132
+,Weeks Polishing Equipment            ,3,Polishing Equipment    ,198.8,174.2,168.9,A,Processing Equipment,Equipment,63,63,133
+21,Weeks Polishing Equipment            ,3,Polishing Equipment    ,198.8,174.2,364,A,Processing Equipment,Equipment,,,134
+,Whale Lifts                          ,14,Lifts                  ,493.4,406.8,385.4,D,Miscellaneous       ,,103,,135
+,Whippers Covers                      ,13,Covers                 ,488.6,410.4,389.9,D,Miscellaneous       ,,22,22,136
+,Wonderingly Covers                   ,13,Covers                 ,547.2,467.3,453.3,D,Miscellaneous       ,,28,28,137

@@ -1,0 +1,21 @@
+
+************** Insert Null Values ******************************
+Insert into `Finance_DW`.`Customer` (Customer_SK, PEC_CustomerID, TPCE_CustomerID, TPCW_CustomerID, CustomerName,CustomerType, Address_1, Address_2, City, State, Zip) value(-1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+
+Insert into `Finance_DW`.`Product` (Product_SK, PEC_ProductID, TPCE_ProductID, TPCW_ProductID, ProductName, ProductType_ID, ProductDescription, Price1, Price2, UnitCost, BU_ID, BU_Name, BU_Abbrev) value(-1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+
+Insert into `Finance_DW`.`Supplier` (Supplier_SK ,SupplierID, SupplierName, Address1, Address2, City, State, Zip) value(-1,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+
+Insert into `Finance_DW`.`Method` (Method_SK, ShippingMethod, OrderMethod, PaymentMethod) value(-1,NULL,NULL,NULL);
+
+Insert into `Finance_DW`.`Date` (Date_SK, Date_NK, CalendarYear, CalendarQuarter, CalendarMonth, CalendarWeek, FiscalYear, FiscalQuarter, FiscalMonth, FiscalWeek, Day) value(-1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+
+
+*******************Insert Foriegn Key Constraint*******************************************
+
+ALTER TABLE sales_fact ADD CONSTRAINT `cust_fk` FOREIGN KEY (`Customer_SK`) REFERENCES `Customer` (`Customer_SK`) ON DELETE NO ACTION ON UPDATE NO ACTION;
+ALTER TABLE sales_fact ADD CONSTRAINT `method_fk` FOREIGN KEY (`Method_SK`) REFERENCES `Method` (`Method_SK`) ON DELETE NO ACTION ON UPDATE NO ACTION;
+ALTER TABLE sales_fact ADD  CONSTRAINT `orderDate_fk` FOREIGN KEY (`OrderDate_SK`) REFERENCES `Date` (`Date_SK`) ON DELETE NO ACTION ON UPDATE NO ACTION;
+ALTER TABLE sales_fact ADD  CONSTRAINT `prod_fk` FOREIGN KEY (`Product_SK`) REFERENCES `Product` (`Product_SK`) ON DELETE NO ACTION ON UPDATE NO ACTION;
+ALTER TABLE sales_fact ADD  CONSTRAINT `salesDate_fk` FOREIGN KEY (`SalesDate_SK`) REFERENCES `Date` (`Date_SK`) ON DELETE NO ACTION ON UPDATE NO ACTION;
+ALTER TABLE sales_fact ADD CONSTRAINT `supplier_fk` FOREIGN KEY (`Supplier_SK`) REFERENCES `Supplier` (`Supplier_SK`) ON DELETE NO ACTION ON UPDATE NO ACTION;

@@ -1,0 +1,13 @@
+ALTER TABLE `Customer` ADD INDEX (`Customer_SK`);
+ALTER TABLE `Product` ADD INDEX (`Product_SK`);
+ALTER TABLE `Date` ADD INDEX (`Date_SK`);
+ALTER TABLE `Supplier` ADD INDEX (`Supplier_SK`);
+ALTER TABLE `Method` ADD INDEX (`Method_SK`);
+ALTER TABLE `Sales_Fact` ADD INDEX (`Customer_SK`,`Product_SK`,`Supplier_SK`,`Method_SK`,`SalesDate_SK`,`OrderDate_SK`);
+
+
+ALTER TABLE customer drop index customer_sk;
+ALTER TABLE product drop index PRODUCT_sk;
+ALTER TABLE date drop index date_sk;
+ALTER TABLE supplier drop index supplier_sk;
+ALTER TABLE method drop index method_sk;
